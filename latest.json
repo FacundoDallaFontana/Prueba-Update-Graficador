@@ -1,5 +1,6 @@
 {
   "version": "1.0.1",
-  "download_url": "COLOCAR_URL_AQUI/gui_graficador_1.0.1.exe",
+  "download_url": "https://drive.usercontent.google.com/u/0/uc?id=1J5-cNDrRvgTtdVtF7b8Gpp3TTECQYcg3&export=download",
   "changelog": "- Sistema de auto-guardado implementado\n- Recuperación automática de crashes\n- Verificación de cambios sin guardar\n- Corrección de bugs en calibración\n- Mejoras en interfaz de zoom\n- Sistema de auto-update implementado"
 }
+
